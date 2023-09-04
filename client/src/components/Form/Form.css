@@ -1,0 +1,32 @@
+.form-container {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-box {
+  width: 200px;
+  height: 35px;
+  border: 1px solid black;
+  border-radius: 14px;
+  padding: 5px;
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  padding-left: 10px;
+}
+
+.add-btn {
+  margin-left: 10px;
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  background: #316fc1;
+  font-weight: bolder;
+  cursor: pointer;
+  box-shadow: 0px 5px 10px rgba(11, 10, 10, 0.3);
+  transition: 0.3s;
+}
